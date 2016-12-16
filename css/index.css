@@ -59,6 +59,7 @@ p{
     font-weight: bold;
 }
 .my-photo{
+    width: 100%;
     max-width: 300px;
     max-height: 300px;
 }
@@ -73,6 +74,7 @@ p{
 }
 .messenger-photo{
     border-radius: 50%;
+    width: 100%;
     max-width: 181px;
     max-height: 181px;
 }
