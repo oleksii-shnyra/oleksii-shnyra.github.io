@@ -144,6 +144,7 @@ p, .wb, .cases>li {
     padding: 4px 10px;
     border-radius: 3px;
     font-weight: 300;
+    direction: ltr;
 }
 
 .green-badge {
