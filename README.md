@@ -1,3 +1,3 @@
-# Hello, my visitor!
+# Hey, check out ->
 
 > https://shom-uabro.github.io/
