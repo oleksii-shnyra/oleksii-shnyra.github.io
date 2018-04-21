@@ -1,3 +1,3 @@
 # Hey, check out ->
 
-> https://shom-uabro.github.io/
+> https://oleksii-shnyra.github.io/
