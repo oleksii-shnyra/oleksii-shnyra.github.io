@@ -1,3 +1,2 @@
-# Hey, check out ->
-
-> https://oleksii-shnyra.github.io/
+# Hello from Oleksii Shnyra!
+# https://shnyra.com/
